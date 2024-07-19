@@ -15,4 +15,4 @@ Based on TOP's [Testing Practice](https://www.theodinproject.com/lessons/node-pa
   - [x] Wrapping from z -> a
   - [x] Preserve case
   - [x] Preserve non-alphabetic characters
-- [ ] Analyze Array
+- [x] Analyze Array
