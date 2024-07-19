@@ -2,7 +2,7 @@
 
 Based on TOP's [Testing Practice](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice) exercise.
 
-The purpose of this exercise is to become familiar with Test Driven Development (TDD) processes and Jest.
+The purpose of this exercise is to become familiar with [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) processes and [Jest](https://jestjs.io/).
 
 ## To Do
 
